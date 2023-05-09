@@ -14,7 +14,7 @@ This is a project that uses:
 2. Install the React as per the documentation above
 3. Install the Styled Components as per the documentation above
 <div align="center">
-     <img align="center" alt="Rafa-pic" height="500" style="border-radius:50px;" src="hhttps://media.discordapp.net/attachments/971779446862385162/1105310832843300934/calculator.jpg">
+     <img align="center" alt="Rafa-pic" height="500" style="border-radius:50px;" src="https://media.discordapp.net/attachments/971779446862385162/1105310832843300934/calculator.jpg?width=1202&height=676">
  </div>
  
 # Observations
